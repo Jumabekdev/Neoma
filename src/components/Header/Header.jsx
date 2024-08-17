@@ -26,6 +26,7 @@ function Header() {
       <a href="#">Education</a>
       <a href="#">FAQ</a>
       <a href="#">Support</a>
+      <a href="#">Juma01</a>
       </div>
       </div>
     </div>
