@@ -1,4 +1,3 @@
-import React from 'react'
 import logo from "../image/logo.png"
 import bottomLine from "../image/Vector 50.png"
 import "./Header.css"
